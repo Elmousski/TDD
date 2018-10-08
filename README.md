@@ -1,3 +1,5 @@
+Fait avec Charlotte Houivet et Joel Alis
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
